@@ -4,7 +4,7 @@
 2. Split Horizontally: \<leader\> + "
 3. Split Vertically: \<leader\> + %
 
-## Movements
+## Movements (works across tmux and neovim)
 
 1. Move Left: \<C-h\>
 2. Move Right: \<C-l\>
