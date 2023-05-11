@@ -5,3 +5,6 @@ development environment. I use iTerm2 + Tmux + NeoVim.
 
 ## Tmux
 [Tmux Cheatsheet](https://github.com/deanandreakis/cheatsheet/blob/main/tmux.md)
+
+## NeoVim
+[NeoVim Cheatsheet](https://github.com/deanandreakis/cheatsheet/blob/main/neovim.md)

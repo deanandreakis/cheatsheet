@@ -3,14 +3,13 @@
 1. leader: " "
 2. NeoVim Tree: \<C-o\>
 3. Telescope Find Files: \<C-p\>
-4. Telescope Live Grep: \<C-r\
+4. Telescope Live Grep: \<C-r\>
 
 ## Move highlited sections in Visual Mode (respecting indents)
 1. Move Up: J
 2. Move Down: K
 
-## Moves then appends line below cursor to the current line & leaves cursor at beginning of line
-## in Normal Mode
+## Moves then appends line below cursor to the current line & leaves cursor at beginning of line in Normal Mode
 J
 
 ## Half page vertical jumps but leaves cursor in the middle in Normal Mode
@@ -63,8 +62,8 @@ J
 4. Complete: \<C-Space\>
 
 ## Commenting Code
-Comment/Uncomment Code in Visual Mode: gc
-Comment/Uncomment A Single Line in Normal Mode: gcc
+1. Comment/Uncomment Code in Visual Mode: gc
+2. Comment/Uncomment A Single Line in Normal Mode: gcc
 
 ## NeoVim Tree
 See/Close All Key Mappings: g?
