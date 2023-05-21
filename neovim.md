@@ -52,8 +52,8 @@ J
 :Mason
 :LspInfo
 
-## Packer Plugin Sync
-:PackerSync
+## Lazy Plugin Manager
+:Lazy
 
 ## Completion (i.e. if the completion floating window is active)
 1. Select Previous: \<C-p\>
@@ -66,6 +66,6 @@ J
 2. Comment/Uncomment A Single Line in Normal Mode: gcc
 
 ## NeoVim Tree
-See/Close All Key Mappings: g?
+See/Close All Key Mappings: g? (when cursor is at top node of tree)
 
 
