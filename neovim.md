@@ -3,7 +3,7 @@
 1. leader: " "
 2. NeoVim Tree: \<C-o\>
 3. Telescope Find Files: \<C-p\>
-4. Telescope Live Grep: \<C-r\>
+4. Telescope Live Grep Args: \<C-r\> : ex: at telescope prompt:"lua" src will find "lua" recursively from src dir down
 
 ## Move highlited sections in Visual Mode (respecting indents)
 1. Move Up: J
