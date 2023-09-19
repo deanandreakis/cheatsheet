@@ -48,9 +48,9 @@ J
 9. Rename: \<leader\>vrn
 10. Signature Help (Insert Mode): \<C-h\>
 
-## Mason LSP Manager
-:Mason
-:LspInfo
+## Mason  and LSP Managers
+\:Mason
+\:LspInfo
 
 ## Lazy Plugin Manager
 :Lazy
