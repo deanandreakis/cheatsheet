@@ -49,7 +49,7 @@ J
 10. Signature Help (Insert Mode): \<C-h\>
 
 ## Mason  and LSP Managers
-\:Mason
+\:Mason /n
 \:LspInfo
 
 ## Lazy Plugin Manager
