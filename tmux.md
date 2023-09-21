@@ -11,3 +11,8 @@
 3. Move Up: \<C-k\>
 4. Move Down: \<C-j\>
 
+
+## Save and Restore tmux sessions across restarts (window/pane sizes and directories etc.)
+
+1. Save a session: \<leader\> + Ctrl-s
+2. Restore latest session: \<leader\> + Ctrl-r
