@@ -66,6 +66,8 @@ J
 2. Comment/Uncomment A Single Line in Normal Mode: gcc
 
 ## NeoVim Tree
-See/Close All Key Mappings: g? (when cursor is at top node of tree)
+1. See/Close All Key Mappings: g? (when cursor is at top node of tree)
+2. normal-mode H toggles dotfiles (show/hide dotfiles)
+3. normal-mode I toggles gitignore (respect gitignore or not)
 
 
