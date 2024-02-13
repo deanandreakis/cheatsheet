@@ -16,3 +16,10 @@
 
 1. Save a session: \<leader\> + Ctrl-s
 2. Restore latest session: \<leader\> + Ctrl-r
+
+
+## Resize Panes
+
+1. Press Ctrl-b and release
+2. Press and hold Meta (Option on Mac)
+3. While holding Meta press arrow keys repeatedly to resize current pane
