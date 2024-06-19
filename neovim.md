@@ -4,6 +4,7 @@
 2. NeoVim Tree: \<C-o\>
 3. Telescope Find Files: \<C-p\>
 4. Telescope Live Grep Args: \<C-r\> : ex: at telescope prompt:"lua" src will find "lua" recursively from src dir down
+5. C-q at Telescope Live Grep results will send all results to quickfix window where we can do a :cdo to update across all results/files
 
 ## Move highlited sections in Visual Mode (respecting indents)
 1. Move Up: J
