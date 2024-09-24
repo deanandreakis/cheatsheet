@@ -7,8 +7,8 @@
 5. C-q at Telescope Live Grep results will send all results to quickfix window where we can do a :cdo to update across all results/files
 
 ## Move highlited sections in Visual Mode (respecting indents)
-1. Move Up: J
-2. Move Down: K
+1. Move Up: K
+2. Move Down: J
 
 ## Moves then appends line below cursor to the current line & leaves cursor at beginning of line in Normal Mode
 J
