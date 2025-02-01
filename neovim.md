@@ -70,5 +70,4 @@ J
 1. See/Close All Key Mappings: g? (when cursor is at top node of tree)
 2. normal-mode H toggles dotfiles (show/hide dotfiles)
 3. normal-mode I toggles gitignore (respect gitignore or not)
-
-
+4. Change root of tree to directory under cursor: Ctrl+]
